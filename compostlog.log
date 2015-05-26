@@ -1,0 +1,4 @@
+DEBUG:root:Starting time: Fri Jan 30 11:41:50 UTC 2015
+DEBUG:root:Set default GPIO states.
+DEBUG:root:Read and log sensors.
+DEBUG:root:Get latest temperature of the spiral.
